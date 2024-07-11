@@ -4,9 +4,9 @@
 
 I am Cristian Benavides, a Software Engineer (specializing in **Backend Development**) based in Mexico City with more than 10 years of experience
 
-🔭 I'm currently working at [@Fondeadora](https://fondeadora.com/) as Software Engineer
+🔭 I'm currently working at [@Invenovax](https://soynovax.com/) as Software Engineer
 
-💃 Outside the world of tech too, I love pushing myself to develop new skills ranging from video games, entrepreneurship, learn to dance (salsa)
+💃 Outside the world of tech too, I love pushing myself to develop new skills ranging from video games, entrepreneurship, learning to dance (salsa)
 
 ## 🛠️ Skills
 
